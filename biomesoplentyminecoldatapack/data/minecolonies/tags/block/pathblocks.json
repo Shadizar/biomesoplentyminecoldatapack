@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "biomesoplenty:brimstone_brick_stairs",
+    "biomesoplenty:brimstone_brick_slab",
+    "biomesoplenty:chiseled_brimstone_bricks",
+    "biomesoplenty:brimstone_bricks",
+    "biomesoplenty:smooth_white_sandstone_stairs",
+    "biomesoplenty:smooth_white_sandstone_slab",
+    "biomesoplenty:smooth_white_sandstone",
+    "biomesoplenty:cut_white_sandstone_slab",
+    "biomesoplenty:cut_white_sandstone",
+    "biomesoplenty:chiseled_white_sandstone",
+    "biomesoplenty:smooth_orange_sandstone",
+    "biomesoplenty:smooth_orange_sandstone_stairs",
+    "biomesoplenty:smooth_orange_sandstone_slab",
+    "biomesoplenty:cut_orange_sandstone_slab",
+    "biomesoplenty:cut_orange_sandstone",
+    "biomesoplenty:chiseled_orange_sandstone",
+    "biomesoplenty:smooth_black_sandstone",
+    "biomesoplenty:smooth_black_sandstone_stairs",
+    "biomesoplenty:smooth_black_sandstone_slab",
+    "biomesoplenty:cut_black_sandstone_slab",
+    "biomesoplenty:cut_black_sandstone",
+    "biomesoplenty:chiseled_black_sandstone"
+  ]
+}
