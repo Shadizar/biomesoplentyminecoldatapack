@@ -1,0 +1,18 @@
+{
+  "type" : "recipe",
+  "crafter": "alchemist_crafting",
+  "inputs": [
+    {
+        "id" : "minecraft:rotten_flesh",
+        "count": 4
+    },
+    {
+        "id" : "biomesoplenty:blood_bucket",
+        "count": 1
+    }
+  ],
+  "result": {
+	  "id": "biomesoplenty:flesh",
+      "count": 1},
+  "intermediate" : "minecraft:air"
+}

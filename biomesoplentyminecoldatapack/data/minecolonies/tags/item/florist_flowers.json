@@ -1,0 +1,24 @@
+{
+"replace": false,
+"values": [
+    "biomesoplenty:rose",
+    "biomesoplenty:violet",
+    "biomesoplenty:lavender",
+	"biomesoplenty:white_lavender",
+	"biomesoplenty:white_petals",
+    "biomesoplenty:wildflower",
+    "biomesoplenty:orange_cosmos",
+    "biomesoplenty:pink_daffodil",
+    "biomesoplenty:pink_hibiscus",
+    "biomesoplenty:glowflower",
+    "biomesoplenty:wilted_lily",
+    "biomesoplenty:burning_blossom",
+    "biomesoplenty:tall_lavender",
+	"biomesoplenty:tall_white_lavender",
+    "biomesoplenty:blue_hydrangea",
+    "biomesoplenty:goldenrod",
+	"biomesoplenty:waterlily",
+	"biomesoplenty:endbloom",
+    "biomesoplenty:icy_iris"
+  ]
+}
